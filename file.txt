@@ -2,3 +2,9 @@ Pizza
 Pasta
 Burger
 Coke
+Ice Cream
+Mangoes 
+Banana
+Kiwi
+Watermelon
+Melon   
